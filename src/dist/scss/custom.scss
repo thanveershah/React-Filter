@@ -1,0 +1,35 @@
+body {
+  background: #fff;
+}
+.slide-item{
+  position: relative;
+  .title-box{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  }
+}
+
+.mail{
+  width: 100%;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
+}
+
+.product-box{
+  .details-block{
+    h6{
+      color: #333;
+      font-weight: normal;
+      font-size: 14px;
+    }
+  }
+}
+.fw-normal{
+  font-weight: normal;
+}
+.btn{
+  text-transform: uppercase;
+  font-size: 12px !important;
+}
